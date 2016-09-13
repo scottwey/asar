@@ -17,7 +17,7 @@ all files together without compression, while having random access support.
 ### Install
 
 ```bash
-$ npm install asar
+$ npm install original-fs-asar
 ```
 
 ### Usage
